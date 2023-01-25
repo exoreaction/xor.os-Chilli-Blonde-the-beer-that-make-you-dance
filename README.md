@@ -2,6 +2,8 @@
 
 Winner of the Battle of the beers 2022/2023
 
+Available at Skråplanet@Rebel in 2023
+
 * eXOReaction XOR.OS Chilli Blonde
 * Belgian Blond Ale (25 A)
 * Est Original Gravity: 1.047 SG
