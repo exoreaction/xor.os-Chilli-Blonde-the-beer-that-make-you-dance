@@ -1,5 +1,7 @@
 # xor.os-Chilli-Blonde-the-beer-that-make-you-dance
 
+Winner of the Battle of the beers 2022/2023
+
 * eXOReaction XOR.OS Chilli Blonde
 * Belgian Blond Ale (25 A)
 * Est Original Gravity: 1.047 SG
