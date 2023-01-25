@@ -32,3 +32,13 @@ Available at Skråplanet@Rebel in 2023
 * Efficiency: 75.00 %
 * Est Mash Efficiency: 78.4 %
 * Taste Rating: 30.0
+
+
+Homegrown chillies (5g in the mash, 280g in a 1.2 l 45% alc tincture)
+* Calefornian Reaper
+* Ghost
+* Bhut Jolokia...
+* Lemon Drop
+* Habanero Chocolate
+* Scotch Bonnet
+* Christmas-Bell
