@@ -1,0 +1,10 @@
+id: xoros-chilli-blonde
+name: "xor.os Chilli Blonde"
+version: "1.0.0"
+description: "Experimental or personal project repository under the xor.os namespace, named after a beer recipe or brewing experiment."
+units:
+  - id: project-root
+    name: "Project Root"
+    type: docs
+    description: "Repository root — no source code or build files found; likely a placeholder, recipe document, or early-stage experiment."
+    path: .
