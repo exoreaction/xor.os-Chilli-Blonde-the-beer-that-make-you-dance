@@ -1,3 +1,17 @@
+kcp_version: "0.21"
+updated: "2026-06-20"
+language: en
+license: "Apache-2.0"
+indexing: private
+temporal:
+  valid_from: "2026-03-10"
+signing:
+  scheme: ed25519
+  scope: this-manifest
+  public_key: "MCowBQYDK2VwAyEAudBZ8a/Fjz0cwpWTV0fVrdQPYEUWxv2FruVfRw7acYQ="
+  signature: "https://raw.githubusercontent.com/exoreaction/xor.os-Chilli-Blonde-the-beer-that-make-you-dance/main/knowledge.yaml.sig"
+not_for: []
+
 id: xoros-chilli-blonde
 name: "xor.os Chilli Blonde"
 version: "1.0.0"
@@ -8,3 +22,6 @@ units:
     type: docs
     description: "Repository root — no source code or build files found; likely a placeholder, recipe document, or early-stage experiment."
     path: .
+    content_hash:
+      algorithm: sha256
+      value: ""
