@@ -9,19 +9,22 @@ signing:
   scheme: ed25519
   scope: this-manifest
   public_key: "MCowBQYDK2VwAyEAudBZ8a/Fjz0cwpWTV0fVrdQPYEUWxv2FruVfRw7acYQ="
-  signature: "https://raw.githubusercontent.com/exoreaction/xor.os-Chilli-Blonde-the-beer-that-make-you-dance/main/knowledge.yaml.sig"
+  signature: "https://raw.githubusercontent.com/exoreaction/xor.os-Chilli-Blonde-\
+    the-beer-that-make-you-dance/main/knowledge.yaml.sig"
 not_for: []
 
 id: xoros-chilli-blonde
 name: "xor.os Chilli Blonde"
 version: "1.0.0"
-description: "Experimental or personal project repository under the xor.os namespace, named after a beer recipe or brewing experiment."
+description: "Experimental or personal project repository under the xor.os
+  namespace, named after a beer recipe or brewing experiment."
 units:
   - id: project-root
     name: "Project Root"
     type: docs
-    description: "Repository root — no source code or build files found; likely a placeholder, recipe document, or early-stage experiment."
+    description: "Repository root — no source code or build files found; likely a
+      placeholder, recipe document, or early-stage experiment."
     path: .
     content_hash:
       algorithm: sha256
-      value: ""
+      value: "e5cab18dd7020016c760ee4dbf530cadbcc533842345b948af8777208e46d905"
